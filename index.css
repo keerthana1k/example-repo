@@ -4,7 +4,7 @@
     margin: 10px;
     display: flex;
     flex-direction: column;
-    
+    overflow: auto;
 }
 .title{
   font-size: 45px;
